@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "7207a963-f6f3-407d-b6be-bb53dbea924a",
+		"name": "APICollection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "29705704"
+	},
+	"item": [
+		{
+			"name": "BugHunters",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
